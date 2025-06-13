@@ -42,6 +42,8 @@ cd memory-optimizer
 python3 memory.py
 ```
 
+---
+
 Contributing
 Contributions are welcome! If you have suggestions for improvements, please open an issue or submit a pull request.
 
