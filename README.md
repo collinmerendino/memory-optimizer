@@ -22,7 +22,7 @@ A Python utility class for optimizing memory usage in server applications and da
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/memory-optimizer.git
+git clone https://github.com/collinmerendino/memory-optimizer.git
 pip install numpy psutil
 cd memory-optimizer
 ```
